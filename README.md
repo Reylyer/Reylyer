@@ -1,5 +1,8 @@
 ### Yoooohh ~
 <img src="https://www.codewars.com/users/Reylyer/badges/large">
+
+
+![](https://count.getloli.com/get/@:Shariyl)
 <!--
 **Reylyer/Reylyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
