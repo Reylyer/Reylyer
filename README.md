@@ -14,6 +14,8 @@ This guy is also known as:
 - Reylyer
 - Iracyl
 - Givandra
+- Black Umbrella
+
 
 <img src="https://www.codewars.com/users/Reylyer/badges/large">
 
