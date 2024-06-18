@@ -1,4 +1,5 @@
 ### Hi!
+I describe myself as lazy, egoistic, hard to communicate, hard to manage, slow, deadliner, easily stressed and panic, doesn't know boundaries but eager to experiment, learn, explore, altruistic, kind, and hardworking(sometimes) IT guy
 
 Just a random internet guy who does random stuff. Here's what I have done and do:
 - ![Syntax Highlighting](https://github.com/Reylyer/syntax-highlighting-notasi-algoritmik-inggriani-liem) - A very old project from when I first started programming. I just wanted to try making a quality of life solution for my college's programming language, *notasi algoritmik*. (badly implemented)
