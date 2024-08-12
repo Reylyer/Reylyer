@@ -29,3 +29,7 @@ Some achievement:
 <p align="center">
   <img src="https://count.getloli.com/get/@:Shariyl" />
 </p>
+
+---
+
+Not so active on github anymore because I'm hosting my ![git server](https://about.gitea.com/)
