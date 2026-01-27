@@ -1,7 +1,7 @@
 ### Hi!
 I describe myself as lazy, egoistic, hard to communicate, hard to manage, slow, deadliner, easily stressed and panic, doesn't know boundaries but eager to experiment, learn, explore, altruistic, kind, and hardworking(sometimes) IT person.
 
-Just a random internet guy who does random stuff. Here's what I have done and do:
+Just a random internet person who does random stuff. Here's what I have done and do:
 - ![Syntax Highlighting](https://github.com/Reylyer/syntax-highlighting-notasi-algoritmik-inggriani-liem) - A very old project from when I first started programming. I just wanted to try making a quality of life solution for my college's programming language, *notasi algoritmik*. (badly implemented)
 - ![Compiler](https://github.com/Reylyer/shariyl-compiler-collection-python) - The sequel of syntax highlighting for *notasi algoritmik*. I've only been able to create the lexer and tokenizer; I can't wrap my head around the AST stuff.
 - ![Competitive Programing](https://github.com/Reylyer/not-so-competitive) - My solution to competitive programming on many platform.
