@@ -10,7 +10,7 @@ Just a random internet guy who does random stuff. Here's what I have done and do
 
 Really interested in cloud infrastructure, networking, and security!
 
-This guy is also known as:
+This person is also known as:
 - Shariyl
 - Reylyer
 - Iracyl
