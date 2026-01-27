@@ -14,7 +14,6 @@ This guy is also known as:
 - Shariyl
 - Reylyer
 - Iracyl
-- Givandra
 - Black Umbrella
 
 Some achievement:
